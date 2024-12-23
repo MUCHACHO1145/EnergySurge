@@ -12,7 +12,7 @@
 
 1. Haz clic en el siguiente enlace para descargar la última versión del plugin:
 
-   [Descargar EnergySurge](https://github.com/MUCHACHO1145/EnergySurge/releases/download/v1.0.0/EnergySurge.jar)
+   [Descargar EnergySurge](https://discord.gg/DxGjMFQNBJ)
 
 2. Coloca el archivo `.jar` descargado en la carpeta `plugins` de tu servidor de Minecraft.
 3. Reinicia tu servidor.
@@ -32,7 +32,7 @@ El plugin verifica automáticamente si hay actualizaciones disponibles cada vez 
 1. Verifica si el plugin te ha notificado que hay una nueva versión disponible.
 2. Dirígete al siguiente enlace para descargar la última versión del archivo `.jar`:
 
-   [Descargar EnergySurge](https://github.com/MUCHACHO1145/EnergySurge/releases/download/v1.0.0/EnergySurge.jar)
+   [Descargar EnergySurge](https://discord.gg/DxGjMFQNBJ)
 
 3. Reemplaza el archivo `.jar` anterior con el nuevo en la carpeta `plugins` de tu servidor.
 4. Reinicia el servidor para cargar la nueva versión.
